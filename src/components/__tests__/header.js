@@ -35,6 +35,6 @@ describe('sum()', () => {
     given: 'negative numbers',
     should,
     actual: sum(1, -4),
-    expected: -3,
+    expected: -7,
   });
 });
