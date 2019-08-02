@@ -1,5 +1,5 @@
 const babelOptions = {
-  presets: ["babel-preset-react-app"],
+  presets: ["babel-preset-gatsby"],
 }
 
 module.exports = require("babel-jest").createTransformer(babelOptions)
